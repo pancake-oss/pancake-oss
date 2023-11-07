@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pancake-oss
 - 👀 I’m interested in making websites and software
 - 🌱 I’m currently learning web development & python
-- 💞️ I’m looking to collaborate on anything, mostly small projects
+- 🥞 I like pancakes
+- 💞️ I like to work on many different projects and anything that peaks my interests
 - 📫 You can reach me through GitHub
 - [Free Space]
