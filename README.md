@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @pancake-oss
 - 👀 I’m interested in making websites and software
+- 🔓 I like to jailbreak devices and make custom software for them.
+- 🗓️ [Free Space]
 - 🌱 I’m currently learning web development & python
 - 🥞 I like pancakes
 - 💞️ I like to work on many different projects and anything that peaks my interests
-- 📫 You can reach me through GitHub
-- [Free Space]
+- 🔏 I love custom firmware and homebrew software
